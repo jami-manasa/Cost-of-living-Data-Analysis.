@@ -1,0 +1,90 @@
+Rank,City,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index
+,"Hamilton, Bermuda",145.43,110.87,128.76,143.47,158.75,112.26
+,"Zurich, Switzerland",141.25,66.14,105.03,149.86,135.76,142.7
+,"Geneva, Switzerland",134.83,71.7,104.38,138.98,129.74,130.96
+,"Basel, Switzerland",130.68,49.68,91.61,127.54,127.22,139.01
+,"Bern, Switzerland",128.03,43.57,87.3,132.7,119.48,112.71
+,"Lausanne, Switzerland",127.5,52.32,91.24,126.59,132.12,127.95
+,"Reykjavik, Iceland",123.78,57.25,91.7,118.15,133.19,88.95
+,"Stavanger, Norway",118.61,39.83,80.61,106.09,143.54,118.14
+,"Lugano, Switzerland",118.24,52.91,86.73,117.74,122.3,119.86
+,"Oslo, Norway",117.23,49.28,84.46,112.42,124.09,102.94
+,"Trondheim, Norway",114.22,42.39,79.58,103.5,134.76,108.29
+,"Bergen, Norway",112.31,40.3,77.58,101.79,119.61,99.29
+,"Kyoto, Japan",100.33,24.58,63.8,118.44,54.59,77.92
+,"New York, NY, United States",100,100,100,100,100,100
+,"Nassau, Bahamas",99.73,40.45,71.14,85.34,104.17,58.69
+,"San Francisco, CA, United States",97.84,115.36,106.29,107.52,91.06,92.96
+,"Copenhagen, Denmark",97.62,50.66,74.97,77.53,121.23,113.31
+,"Luxembourg, Luxembourg",95.37,61.59,79.08,82.71,109.61,127.42
+,"Anchorage, AK, United States",94.99,40.12,68.53,101.18,84.55,124.92
+,"Honolulu, HI, United States",94.15,62.82,79.04,104.69,82.86,103.08
+,"Tokyo, Japan",93.81,37.07,66.45,99.67,58.93,106.42
+,"Brooklyn, NY, United States",93.79,76.24,85.33,92.73,100.58,87.04
+,"Paris, France",92.87,50.3,72.34,87.29,91.77,97.62
+,"Limerick, Ireland",92.73,27.71,61.37,87.15,82.93,93.93
+,"Rockville, MD, United States",92.66,64,78.84,87.76,74.74,130.79
+,"Bloomington, IN, United States",92.14,33.64,63.93,112.83,75.43,96.92
+,"Washington, DC, United States",91.94,73.3,82.95,92.74,85,120.62
+,"Arhus, Denmark",91.9,34.82,64.37,71.5,102.82,109.47
+,"Singapore, Singapore",91.4,71.89,81.99,83.64,64.4,95.89
+,"Aalborg, Denmark",91.17,26.81,60.13,73.79,101.14,106.35
+,"Stockholm, Sweden",90.85,45.27,68.87,84.06,93.71,108.2
+,"Sydney, Australia",90.77,68.43,80,85.02,77.09,118.81
+,"Montpellier, France",90.63,24.95,58.95,86.93,75.13,74.25
+,"Tel Aviv-Yafo, Israel",90.36,51.55,71.65,76.9,97.21,101.36
+,"Santa Rosa, CA, United States",90.23,58.13,74.75,92.05,78.34,106.77
+,"Dublin, Ireland",89.92,62.13,76.52,73.62,95.64,88.11
+,"Jerusalem, Israel",89.62,38.43,64.93,74.2,96.35,84.17
+,"Linz, Austria",89.33,29.43,60.44,84.03,88.05,95.13
+,"Arlington, VA, United States",89.2,61.85,76.01,88.51,82.63,120.53
+,"Amsterdam, Netherlands",89.14,58.22,74.23,70.13,95.2,101.7
+,"Bellevue, WA, United States",88.85,66.67,78.15,88.43,80.99,73.46
+,"London, United Kingdom",88.69,76.67,82.89,67.36,96.36,92.61
+,"Antwerp, Belgium",88.2,28.06,59.19,79.12,101.67,90.18
+,"Hamilton, New Zealand",88.09,26.98,58.62,81.69,84.97,128.21
+,"Seattle, WA, United States",88.04,64.41,76.64,89.85,83.22,144.6
+,"Berkeley, CA, United States",87.82,78.69,83.42,97.88,78.29,115.84
+,"Helsinki, Finland",87.77,40.52,64.98,73.82,96.5,113.87
+,"Grenoble, France",87.73,25.07,57.51,88.71,79.04,115.7
+,"Seoul, South Korea",87.56,37.17,63.26,107.06,50.88,107.52
+,"Tampere, Finland",87.2,28.89,59.08,73.89,96.76,111.28
+,"Boston, MA, United States",87.05,78.72,83.03,88.99,86.2,101.35
+,"Auckland, New Zealand",86.93,46.95,67.65,79.21,72.26,99.37
+,"Florence, Italy",86.9,31.81,60.34,76.28,87.67,66.09
+,"Nice, France",86.69,31.64,60.14,78.82,98.75,107.04
+,"Milton Keynes, United Kingdom",86.28,37.34,62.68,85.31,81.71,90.17
+,"Perth, Australia",86.24,40.5,64.18,80.79,90.63,130.38
+,"Charleston, SC, United States",86.19,45.99,66.8,98.41,71.87,115.41
+,"Adelaide, Australia",86.02,36.56,62.17,82.05,81.67,113.86
+,"Miami, FL, United States",86.01,63.2,75.01,87.37,95.81,97.81
+,"Bath, United Kingdom",85.79,37.62,62.56,78.47,83.51,117.98
+,"Reading, United Kingdom",85.56,40.91,64.03,71.32,95.36,130.18
+,"Leuven, Belgium",85.31,29.48,58.38,79.81,86.88,92.44
+,"Gent, Belgium",85.16,26.92,57.07,72.2,94.01,96.27
+,"Melbourne, Australia",85.15,44.81,65.7,82.11,77.29,127.15
+,"Oakland, CA, United States",85.11,79.57,82.44,88.65,81.38,97.94
+,"Milan, Italy",85.1,43.65,65.11,75.56,92.27,71.94
+,"Genoa, Italy",85.04,21.49,54.39,74.03,83.87,71.66
+,"Darwin, Australia",84.98,46.52,66.43,82.29,91.79,118.09
+,"Cairns, Australia",84.98,30.59,58.75,84.5,74.96,118.05
+,"The Hague (Den Haag), Netherlands",84.97,35.55,61.14,70.25,89.11,106.25
+,"Munich, Germany",84.78,46.46,66.3,72.97,82.46,118.19
+,"Lyon, France",84.47,28.04,57.26,77.74,79.13,101.17
+,"Gothenburg, Sweden",84.38,30.46,58.38,77.45,91.06,112.1
+,"New Haven, CT, United States",84.13,47.53,66.48,92.86,86.18,127.41
+,"Irvine, CA, United States",83.73,66.26,75.3,89.49,76.5,139.48
+,"Brussels, Belgium",83.65,35.76,60.55,72.55,96.1,104.35
+,"Philadelphia, PA, United States",83.46,48.09,66.4,82.24,79.37,116.06
+,"Utrecht, Netherlands",83.34,40.23,62.55,68.39,97.89,105.9
+,"Aberdeen, United Kingdom",83.18,32.13,58.56,67.23,99.29,115.94
+,"Cambridge, United Kingdom",82.96,47.33,65.78,67.22,95.67,105.39
+,"Cork, Ireland",82.89,39.97,62.19,67.32,91.87,105.57
+,"Hobart, Australia",82.88,31.46,58.08,81.1,88.26,99.4
+,"San Jose, CA, United States",82.87,81.81,82.36,85.4,83.12,134.82
+,"Toulouse, France",82.85,24.97,54.94,77.86,82.38,113.77
+,"Ramat Gan, Israel",82.84,36.93,60.7,67.32,89.36,112.25
+,"Rotterdam, Netherlands",82.64,35.28,59.8,63.02,94.81,102.03
+,"Tacoma, WA, United States",82.54,36.82,60.49,88.02,72.46,125.1
+,"Dusseldorf, Germany",82.48,36.34,60.23,65.69,74.97,114.5
+,"Los Angeles, CA, United States",82.3,68.75,75.77,82.73,82.48,109.01
